@@ -1,0 +1,8 @@
+# /public/robots.txt - Search Engine Indexing directives
+User-agent: *
+Allow: /
+Sitemap: https://ateliervelox.com/sitemap.xml
+
+# Protect internal lead dashboards and API routes
+Disallow: /admin
+Disallow: /api/

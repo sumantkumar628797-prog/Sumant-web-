@@ -1,0 +1,61 @@
+[
+  {
+    "id": "booking_1783611136169_q5mp",
+    "type": "contact_form",
+    "name": "Test",
+    "email": "test@test.com",
+    "phone": "123",
+    "businessName": "B",
+    "projectType": "P",
+    "budget": "1",
+    "message": "",
+    "status": "Pending",
+    "createdAt": "2026-07-09T15:32:16.169Z",
+    "estimatedROI": "250%+ Projected ROI within 6 months"
+  },
+  {
+    "id": "lead_vip_001",
+    "type": "consultation",
+    "name": "Aravind Singhania",
+    "email": "aravind@vanguardestates.in",
+    "phone": "+91 9263914732",
+    "businessName": "Vanguard Luxury Real Estate",
+    "projectType": "High-End Real Estate Website",
+    "budget": "₹65,000 - ₹80,000",
+    "dateStr": "2026-07-10",
+    "timeSlot": "11:00 AM - 11:45 AM (IST)",
+    "status": "Confirmed",
+    "createdAt": "2026-07-07T15:28:43.826Z",
+    "estimatedROI": "300%+ increase in international HNWI investor inquiries",
+    "notes": "Requested custom 3D villa walkthrough tour integration and multilingual VIP portal."
+  },
+  {
+    "id": "lead_vip_002",
+    "type": "contact_form",
+    "name": "Chef Alistair D'Souza",
+    "email": "chef@lamourdining.com",
+    "phone": "+91 99876 54321",
+    "businessName": "L'Amour Bistro & Lounge",
+    "projectType": "Luxury Restaurant Website",
+    "budget": "₹50,000 - ₹65,000",
+    "message": "We are relaunching our Michelin-inspired tasting menu in Mumbai and need an ultra-luxury web presence with private table reservations.",
+    "status": "Pending",
+    "createdAt": "2026-07-09T10:28:43.827Z",
+    "estimatedROI": "₹2.5L+/month in direct online table bookings bypassing third-party commissions."
+  },
+  {
+    "id": "lead_vip_003",
+    "type": "consultation",
+    "name": "Sanya Kapoor",
+    "email": "sanya@lumieresalon.com",
+    "phone": "+91 97111 22334",
+    "businessName": "Lumière Hair & Spa Atelier",
+    "projectType": "Premium Salon Website",
+    "budget": "₹55,000 - ₹70,000",
+    "dateStr": "2026-07-12",
+    "timeSlot": "03:00 PM - 03:45 PM (IST)",
+    "status": "Completed",
+    "createdAt": "2026-07-09T15:28:43.827Z",
+    "notes": "Needs live styling portfolio gallery and automated SMS booking reminders."
+  }
+]

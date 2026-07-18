@@ -1,0 +1,3 @@
+# /public/_redirects
+# Netlify Redirects configuration for Vite SPA and API proxying
+/*    /index.html   200
